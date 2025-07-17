@@ -13,7 +13,7 @@ import {
     AlertDialogTrigger,
 } from '@/components/ui/alert-dialog';
 import { Button } from '@/components/ui/button';
-import { Card, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { Card, CardDescription, CardHeader, CardTitle,CardContent } from '@/components/ui/card';
 import { format } from 'date-fns';
 import { Eye, Trash2 } from 'lucide-react';
 import { useRouter } from 'next/navigation';
